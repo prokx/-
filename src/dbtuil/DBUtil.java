@@ -17,7 +17,7 @@ public class DBUtil {
 		if(dbUtil==null) {
 			dbUtil = new DBUtil();
 		}
-		
+		System.out.println(1);
 		return dbUtil;
 	}
 	
